@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name MX_ALPS_Hybrid)(type KiCad)(uri "B:/Users/Benjamin Sanchez/Documents/GitHub/mrkeebgerenated/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri "B:/Users/Benjamin Sanchez/Documents/GitHub/mrkeebgerenated/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name kicad_lib_tmk)(type KiCad)(uri "B:/Users/Benjamin Sanchez/Documents/GitHub/mrkeebgerenated/kicad_lib_tmk")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri "B:/Users/Benjamin Sanchez/Documents/GitHub/PCB/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name teensy_library)(type KiCad)(uri "B:/Users/Benjamin Sanchez/Documents/GitHub/PCB/teensy_library")(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri "B:/Users/Benjamin Sanchez/Documents/GitHub/PCB/teensy.pretty-master")(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri "B:/Users/Benjamin Sanchez/Documents/GitHub/PCB/Keebio-Parts.pretty-master")(options "")(descr ""))
+)
