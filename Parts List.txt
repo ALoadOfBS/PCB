@@ -1,0 +1,29 @@
+1 - BS Boards PCB
+1 - Elite-C MCU (Low Profile version recommended. I did update the case files to hopefully fit the normal elite-c)
+63 - MX switches of your choice
+63 - 1n4148 Switching diode 100v 200ma
+1 pack- 60% pcb mounted stabalizers
+1 - ec11 Rotary encoder or something with similar pinouts to fit the pcb board
+2 - 10k ohm resistors for Rotary Encoder
+?? - WS2812B 5v LED Strip. I put 28 LEDS in my keyboard but i was able to get 30 LEDs working by reducing the brightness.
+1 - 330 ohm resistor (Optional for Leds)
+?? - wire of your choice try to find 22 guage and smaller wire for the LEDS
+
+
+CASE 
+Look in "CASE FILES" folder for the eps and dxf files. If using with Ponoko Use ".eps" files.
+
+1 - Switch plate - 1.5mm Aluminum (more detail below please read)
+1 - Black Layer - 4.5mm Acrylic (Doesnt have to be black can be any color)
+1 - Clear Layer - 4.5mm Acrylic (Again can be any color of your choice)
+1 - Back pate - 3mm Acrylic (Color Choice Again)
+10 - m2.5x16mm Bolts (I found mine at a local ACE Hardware)
+10 - m2.5 hex nuts 
+
+
+*CASE CONSIDERATIONS*
+For the switch plate i recommended 1.5mm aluminum (i think ponoko has 1.6mm aluminum)
+you may have to drill a hole where the reset button is on the elite-c controller
+i put my elite c on top of the pcb and the bottom of the switch plate was pressing on the reset button.
+
+If you have any questions please feel free to message me on reddit r/ALoadOfBS
