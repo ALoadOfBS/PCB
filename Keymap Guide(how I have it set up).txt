@@ -1,0 +1,29 @@
+default layer 
+standard 60% layout
+caps is a function key 
+Menu key is Caps
+rotary encoder press: play/pause
+rotary encoder twist: volup/voldown
+
+layer 1 
+1-"=" are the f1-f12 keys
+"wasd" keys are arrow keys
+[ = home 
+] = pg up
+; = end
+' = pg down 
+. = ins 
+/ = delete
+\ = print screen
+ Back Space = RESET
+f13 = ctrl+alt+delete
+f14 = EMAIL MACRO (insert you email in the keymap.c file)
+rotary encoder press: Mute
+l = layer 2 toggle (press once to enter and press again to leave layer 2
+
+Layer 2 Led layer
+z = led on/off
+x = change animation
+press and hold "c" and twist rotary encoder to change brightness
+press and hold "v" and twist rotary encoder to change Color
+press and hold "b" and twist rotary encoder to change Saturation
