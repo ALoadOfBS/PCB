@@ -4,9 +4,9 @@
 63 - 1n4148 Switching diode 100v 200ma
 1 pack- 60% pcb mounted stabalizers
 1 - ec11 Rotary encoder or something with similar pinouts to fit the pcb board
-2 - 10k ohm resistors for Rotary Encoder
+2 - 10k ohm 1/4w 5% resistors for Rotary Encoder
 ?? - WS2812B 5v LED Strip. I put 28 LEDS in my keyboard but i was able to get 30 LEDs working by reducing the brightness.
-1 - 330 ohm resistor (Optional for Leds)
+1 - 330 ohm 1/4w 5% resistor (Optional for Leds)
 ?? - wire of your choice try to find 22 guage and smaller wire for the LEDS
 
 
